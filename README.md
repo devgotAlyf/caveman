@@ -146,7 +146,7 @@ Install once. Use in every session for that install target after that. One rock.
 
 ### What You Get
 
-Auto-activation is built in for Claude Code, Gemini CLI, and the repo-local Codex setup below. `npx skills add` installs the skill for other agents, but does **not** install repo rule/instruction files, so Caveman does not auto-start there unless you add the always-on snippet below.
+Auto-activation is built in for Claude Code, Gemini CLI, and the repo-local Codex setup below. `npx skills add` installs the skill for other agents, but does **not** install repo rule/instruction files, so Caveman does not auto-start there unless you add the always-on snippet below it's a good feature.
 
 | Feature | Claude Code | Codex | Gemini CLI | Cursor | Windsurf | Cline | Copilot |
 |---------|:-----------:|:-----:|:----------:|:------:|:--------:|:-----:|:-------:|
